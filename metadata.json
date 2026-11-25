@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Grand Quiz Mathématique – Spécial CM2",
+  "description": "Jeu télévisé éducatif et interactif pour les élèves de CM2 : tables de multiplication, multiples, diviseurs et Grande Finale avec suivi global du score.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
